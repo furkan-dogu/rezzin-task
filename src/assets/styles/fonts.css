@@ -1,0 +1,258 @@
+/* Beausite Classic Fonts */
+@font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Black-BF6424edbfdb05c.otf') format('opentype');
+    font-weight: 900;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-BlackItalic-BF6424edbdf0de9.otf') format('opentype');
+    font-weight: 900;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Bold-BF6424edb4990f.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-BoldItalic-BF6424edbf4596.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Clear-BF6424edc049804.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Light-BF6424edc039e51.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-LightItalic-BF6424edc039e3a.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Medium-BF6424edbf3cb1.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-MediumItalic-BF6424edc01c9ea.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Regular-BF6424edbfe9fdb.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Semibold-BF6424edc059db6.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-SemiboldItalic-BF6424edc0e070.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Thin-BF6424edc005b26.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-ThinItalic-BF6424edbfde0b0.otf') format('opentype');
+    font-weight: 100;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Ultrablack-BF6424edc0bbb7.otf') format('opentype');
+    font-weight: 950;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'BeausiteClassic';
+    src: url('./fonts/BeausiteClassicTrial-Ultralight-BF6424edbf30600.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  /* ES Rebond Grotesque Fonts */
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Bold-BF66189040400df.otf') format('opentype');
+    font-weight: 700;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-BoldItalic-BF6618904029e34.otf') format('opentype');
+    font-weight: 700;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Extrabold-BF661890401e032.otf') format('opentype');
+    font-weight: 800;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-ExtraboldItalic-BF6618903f8f173.otf') format('opentype');
+    font-weight: 800;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Extralight-BF66189041219b7.otf') format('opentype');
+    font-weight: 200;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-ExtralightItalic-BF661890413ed1.otf') format('opentype');
+    font-weight: 200;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Hairline-BF6618904a3e4d1.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Italic-BF66189040a4d2d.otf') format('opentype');
+    font-weight: 400;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Light-BF661890414df8d.otf') format('opentype');
+    font-weight: 300;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-LightItalic-BF6618903fdb312.otf') format('opentype');
+    font-weight: 300;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Medium-BF661890408856f.otf') format('opentype');
+    font-weight: 500;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-MediumItalic-BF661890402cb3.otf') format('opentype');
+    font-weight: 500;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Regular-BF661890404f81c.otf') format('opentype');
+    font-weight: 400;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Semibold-BF661890403e67.otf') format('opentype');
+    font-weight: 600;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-SemiboldItalic-BF66189040a31d.otf') format('opentype');
+    font-weight: 600;
+    font-style: italic;
+    unicode-range: U+0100-024F
+  }
+  
+  @font-face {
+    font-family: 'ESRebondGrotesque';
+    src: url('./fonts/ESRebondGrotesqueTRIAL-Thin-BF661890411778f.otf') format('opentype');
+    font-weight: 100;
+    font-style: normal;
+    unicode-range: U+0100-024F
+  }
+  
